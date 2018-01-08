@@ -1,0 +1,56 @@
+body{
+	
+	 background-image: url(http://mediad.publicbroadcasting.net/p/sdpb/files/201410/WWE.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	}
+
+.text{
+
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+
+#add{
+	
+	color: red;
+
+}
+
+.btn-primary {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background: red;
+    color: black;
+    border-style: none;
+}
+
+.btn-primary:hover { 
+    background: black;
+    color: red;
+}
+
+#submitwwe {
+
+	background: red;
+    color: black;
+    border-style: none;
+}
+
+#submitwwe:hover { 
+    background: black;
+    color: red;
+}
+
+#wwe{
+ 
+    color: red;
+    font-family: avenir;
+
+}
+
+#wwe-input{
+
+	width: 30%;
+}
