@@ -1,4 +1,4 @@
-var topicsArray = ["WWE", "John Cena", "Randy Orton", "Undertaker", "Sasha Banks", "Nikki Bella", "Natalya"];
+var topicsArray = ["WWE", "John Cena", "Randy Orton", "Undertaker", "The Miz", "Sasha Banks", "Nikki Bella", "Natalya", "Brie Bella"];
 
 $(document).ready(function() {
     for (var i = 0; i < topicsArray.length; i++) {
