@@ -12,7 +12,7 @@ Once that button is clicked, gifs that are related to that button will be displa
 
 The rating for each gif will also be displayed
 
-The user will be ale to click on the gif to animate it. And also click on the gif to stop it.
+The user will be able to click on the gif to animate it. And also click on the gif to stop it.
 
 You can access the app: https://swcooper2014.github.io/GifTastic/
 
