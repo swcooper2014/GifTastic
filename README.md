@@ -16,13 +16,13 @@ The user will be able to click on the gif to animate it. And also click on the g
 
 You can access the app: https://swcooper2014.github.io/GifTastic/
 
-Technolgoies Used
+Technologies Used
 
 HTML
 
 CSS
 
-Boostrap CSS
+Bootstrap CSS
 
 Javascript
 
